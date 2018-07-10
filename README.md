@@ -1,4 +1,4 @@
-# cpmetrix :chart_with_upwards_trend:
+# CPmetrix - Exporting data from capacity planning reports automatically and Massively - Nagios XI :chart_with_upwards_trend:
 
 CPmetrix is a script build in Python and ShellScript to extract capacity planning report values from Nagios XI,
 this script get values from all services and hosts with date and time.
