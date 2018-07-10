@@ -1,0 +1,16 @@
+localhost/Current_Load:load1
+localhost/Current_Load:load5
+localhost/Current_Load:load15
+localhost/Current_Users:users
+localhost/_HOST_:rta
+localhost/_HOST_:pl
+localhost/_HOST_:rtmax
+localhost/_HOST_:rtmin
+localhost/HTTP:time
+localhost/HTTP:size
+localhost/PING:rta
+localhost/PING:pl
+localhost/Root_Partition:/
+localhost/SSH:time
+localhost/Swap_Usage:swap
+localhost/Total_Processes:procs
