@@ -13,7 +13,7 @@ exit
 ###### Chart
 ![alt text](https://github.com/fmaced1/cpmetrix/blob/master/nagios-chart-cpmetrix.png)
 
-###### Table Data
+###### Data table
 ![alt text](https://github.com/fmaced1/cpmetrix/blob/master/nagios-data-cpmetrix.png)
 
 ## How it works :rocket:
