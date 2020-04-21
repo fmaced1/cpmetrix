@@ -5,16 +5,18 @@ CPmetrix is a script build in Python and ShellScript to extract capacity plannin
 ## Installation :sunglasses:
 
 ```
+build -t nagios-xi:centos6-1.0.0 .
+docker run -d -p 80:80 --name nagios-xi nagios-xi:centos6-1.0.0
+docker exec -it nagios-xi bash
+
 git clone https://github.com/fmaced1/cpmetrix.git ~/cpmetrix
-sudo root
 ~/cpmetrix/./install_cpmetrix.sh
-exit
 ```
 ###### Chart
-![alt text](https://github.com/fmaced1/cpmetrix/blob/master/nagios-chart-cpmetrix.png)
+![alt text](resources/nagios-chart-cpmetrix.png)
 
 ###### Data table
-![alt text](https://github.com/fmaced1/cpmetrix/blob/master/nagios-data-cpmetrix.png)
+![alt text](resources/nagios-data-cpmetrix.png)
 
 ## How it works :rocket:
 
