@@ -11,6 +11,7 @@ docker exec -it nagios-xi bash
 
 git clone https://github.com/fmaced1/cpmetrix.git ~/cpmetrix
 ~/cpmetrix/./install_cpmetrix.sh
+~/cpmetrix/./cpmetrix.sh
 ```
 
 ###### Chart
